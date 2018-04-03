@@ -5,7 +5,6 @@ const app = express();
 const session = require('express-session');
 const compression = require('compression');
 const config = require('./config')
-const axios = require('axios')
 const {setCORS, isLogin} = require('./middleware/index')
 const {readFile} = require('./lib/utils');
 
