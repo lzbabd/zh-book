@@ -77,11 +77,13 @@ npm run build
 
 ## 项目预览地址
 
-接口文档 ﻿https://www.eolinker.com/#/share/index?shareCode=WAKQW6
+![链接](http://note.zeebin.top/public/img/qr_code.png)
+
+
 
 ## 辅助开发资源
 
 
-# 其他功能
-详情页收藏
+# 其他未完成功能
+
 
