@@ -1,0 +1,95 @@
+// 设计尺寸
+$designWidth = 720
+
+// 单位转换函数
+px2rem(px)
+  return unit(px * 320 / $designWidth / 20, 'rem')
+// 公共颜色
+$fontColorBlack = #333
+$fontColorGray6 = #666
+$bgGray1 = #ededed
+$mainColor = #dc151e
+
+bs() {
+  background-size 100% 100%
+}
+.fl
+  float left
+.fr
+  float right
+.clearfix
+  display block
+  zoom 1
+  &::after
+    display block
+    content ''
+    font-size 0
+    height 0
+    clear both
+    visibility hidden
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .2s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
+.read-setting-enter-active, .read-setting-leave-active {
+  transition: opacity .3s;
+}
+.read-setting-enter-to, .read-setting-leave {
+  opacity: .9!important
+}
+.read-setting-enter, .read-setting-leave-to {
+  opacity: 0!important
+}
+[class*='fs-']{
+  line-height 1.5
+  h2{
+    padding-bottom: px2rem(12)
+  }
+  p{
+    text-indent 2em
+    padding-bottom: px2rem(12)
+  }
+}
+.fs-5 {
+  h2 {
+    font-size px2rem(56)
+  }
+  p {
+    font-size px2rem(48)
+  }
+}
+.fs-4 {
+  h2 {
+    font-size px2rem(52)
+  }
+  p {
+    font-size px2rem(44)
+  }
+}
+.fs-3 {
+  h2 {
+    font-size px2rem(48)
+  }
+  p {
+    font-size px2rem(40)
+  }
+}
+.fs-2 {
+  h2 {
+    font-size px2rem(44)
+  }
+  p {
+    font-size px2rem(38)
+  }
+}
+
+.fs-1 {
+  h2 {
+    font-size px2rem(40)
+  }
+  p {
+    font-size px2rem(34)
+  }
+}

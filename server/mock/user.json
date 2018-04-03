@@ -1,0 +1,124 @@
+{
+  "num": 12,
+  "userList": [
+    {
+      "id": -1,
+      "username": "traveler",
+      "password": "",
+      "bookshelf": [
+        {
+          "bid": "5a5577e59b2420ef3fda94f2"
+        },
+        {
+          "bid": "5a780680acaa077a60c2f3b3"
+        },
+        {
+          "bid": "50bef0732033d09b2f00007f"
+        }
+      ],
+      "forums": []
+    },
+    {
+      "id": 1,
+      "username": "lzbabd",
+      "password": "d3a99072b2aef542dbe18f3190ef9344",
+      "bookshelf": [
+        {
+          "bid": "5816b415b06d1d32157790b1"
+        },
+        {
+          "bid": "50874f79f98e8f7446000017"
+        },
+        {
+          "bid": "5a780680acaa077a60c2f3b3"
+        },
+        {
+          "bid": "50bef0732033d09b2f00007f"
+        }
+      ],
+      "forums": [
+        68490,
+        189788,
+        185282,
+        160116
+      ]
+    },
+    {
+      "id": 2,
+      "username": "fgg",
+      "password": "a8bb12dd523ac5b5d2892920de6e9a9e",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 3,
+      "username": "asdasdsa",
+      "password": "bb53574afac7923a1c0c325727d55f45",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 4,
+      "username": "ddddddd",
+      "password": "989b89f49864543d0feb22c9b7026550",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 5,
+      "username": "asdadddd",
+      "password": "5fe7b99450053aa42ad8ed7c864945ba",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 6,
+      "username": "asdasdas",
+      "password": "44648a46cff74c8cf75cbd53ff681a9d",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 7,
+      "username": "sdsdassa",
+      "password": "2a2993fc197bbb86bdd106efd4f65aba",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 8,
+      "username": "asdasdasd",
+      "password": "0d5f5fc07943f9d30fdf21e4c4a40e20",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 9,
+      "username": "asdasdasdas",
+      "password": "c4319a985c3bdb672da97612d9ad8461",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 10,
+      "username": "lkdsbb",
+      "password": "a8bb12dd523ac5b5d2892920de6e9a9e",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 11,
+      "username": "lk1234",
+      "password": "d3a99072b2aef542dbe18f3190ef9344",
+      "bookshelf": [],
+      "forums": []
+    },
+    {
+      "id": 12,
+      "username": "122222",
+      "password": "31b4be8dc8fb50fc3b253157334ebd9c",
+      "bookshelf": [],
+      "forums": []
+    }
+  ]
+}

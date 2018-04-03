@@ -1,0 +1,102 @@
+@import "./public.styl";
+button
+  border: none
+  -webkit-appearance:none;
+  background: none
+.register-page,.login-page
+  position absolute
+  left: 0
+  right: 0
+  top: 0
+  bottom: 0
+  background: #fff;
+  .header
+    display: flex
+    box-sizing border-box
+    padding px2rem(24)
+    width 100%
+    background: #fff
+    align-items center
+    .close-btn
+      padding px2rem(24)
+      img
+        display: block
+        margin-right: auto
+        width px2rem(46)
+        height px2rem(46)
+
+    .register-btn
+      margin-left auto
+      color $mainColor
+      padding: px2rem(24)
+      font-size px2rem(32)
+  .main
+    margin: 0 auto
+    width px2rem(570)
+    h2
+      font-size px2rem(38)
+      font-weight: 500
+      color #333
+      line-height: px2rem(100)
+    .form
+      .input-box
+        width 100%
+        height px2rem(108)
+        line-height: px2rem(108)
+        border-bottom: px2rem(1) solid #dedede
+        input
+          box-sizing border-box
+          border: none
+          font-size px2rem(30)
+          width 100%
+          padding-right: px2rem(10)
+        &:last-child
+          display: flex
+          width 100%
+          font-size px2rem(30)
+          align-items center
+          .code
+            line-height px2rem(42)
+            height px2rem(42)
+            color $mainColor
+            width px2rem(220)
+            text-align: center
+            border-left: px2rem(1) solid #ccc
+            &:disabled
+              color #999
+          input
+            flex:1
+
+    .tips
+      color $mainColor
+      margin-top px2rem(24)
+      height px2rem(40)
+      line-height: px2rem(40)
+      font-size px2rem(28)
+    .btn-box
+      width 100%
+      margin-top px2rem(24)
+      button
+        display: block
+        width 100%
+        height px2rem(88)
+        background: $mainColor
+        font-size px2rem(36)
+        border-radius: px2rem(7);
+        border: px2rem(1) solid darken($mainColor, 6)
+        color white
+        &:disabled
+          background-color: #D8D8D8
+          border-color:darken(#D8D8D8, 6)
+      small
+        display: block
+        font-size px2rem(26)
+        margin-top: px2rem(26)
+        color #888
+  .footer
+    width 100%
+    position: absolute
+    bottom: px2rem(80)
+    text-align: center
+    color #777
+    font-size px2rem(26)

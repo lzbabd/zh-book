@@ -1,0 +1,52 @@
+{
+  "_id": "5a9e4da7a5ee611ea424b033",
+  "title": "从姑获鸟开始",
+  "author": "活儿该",
+  "longIntro": "身如鸿毛，命如野草。见过最黑的夜，所以心中炽烈明亮的火焰，从不动摇。",
+  "majorCate": "科幻",
+  "minorCate": "未来世界",
+  "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F2236150%2F2236150_d70a33199a5246bea4e76c9e23f81a51_default_cover.png%2F",
+  "hiddenPackage": [
+    "mangguo"
+  ],
+  "apptype": [
+    0,
+    1
+  ],
+  "rating": {
+    "count": 115,
+    "score": 8.348,
+    "isEffect": true
+  },
+  "hasCopyright": true,
+  "buytype": 0,
+  "sizetype": -1,
+  "superscript": "",
+  "currency": 0,
+  "contentType": "txt",
+  "_le": true,
+  "allowMonthly": false,
+  "allowVoucher": true,
+  "allowBeanVoucher": true,
+  "hasCp": true,
+  "postCount": 42,
+  "latelyFollower": 15220,
+  "followerCount": 0,
+  "wordCount": 135998,
+  "serializeWordCount": 4300,
+  "retentionRatio": "34.27",
+  "updated": "2018-03-26T15:33:00.788Z",
+  "isSerial": true,
+  "chaptersCount": 52,
+  "lastChapter": "第51章 山中有鬼",
+  "gender": [
+    "male"
+  ],
+  "tags": [],
+  "advertRead": true,
+  "cat": "未来世界",
+  "donate": false,
+  "_gg": false,
+  "discount": null,
+  "limit": false
+}
