@@ -1,6 +1,6 @@
-# 纵横中文阅读 vue
+# 纵横阅读
 
-> 珠峰培训201714期3组毕业项目
+> 基于vue + 追书api实现的小说阅读应用(UI仿纵横小说)
 
 
 ## 概述
@@ -12,7 +12,7 @@
 基础列库：vue
 路由：vue-router
 数据管理：vuex ...
-路由信息同步：react-router-redux
+前端路由管理：vue-router
 移动端布局: hotcss
 样式：stylus + postcss
 
